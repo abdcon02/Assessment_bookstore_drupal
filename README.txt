@@ -1,3 +1,45 @@
+# Badass Bookstore Website
+### Created by Connor Abdelnoor
+#### For an Assessment at Epicodus on: </br> May 15 2015
+
+###Purpose
+This site was created for a bookstore customer. They wished to have a simple site with
+an about page, and a page for locations. They also wanted to create accounts for their employees
+so those employees can add book reviews. The last piece of the site was a special coupon code
+that only authenicated users could view.
+
+###Drupal Technologies
+Core Modules
+* Views Module
+* Features Module
+* Strongarm Module
+* Diff Module
+* Ctools Module </br>
+
+Custom Modules
+* Site Configuration Module built with features module
+* Book Review Module built with features module </br>
+
+Themes
+* Mayo Theme
+
+
+
+
+####Access:
+DB Name: bookstore</br>
+DB User: epicodus</br>
+DB Pass: epicodus</br>
+Drupal Admin: epicodus</br>
+Drupal Admin Pass: epicodus</br>
+Drupal Reviewer: blogger</br>
+Drupal Reviewer Pass: admin</br>
+
+
+
+
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
